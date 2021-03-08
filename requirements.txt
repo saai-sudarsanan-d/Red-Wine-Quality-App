@@ -1,5 +1,6 @@
-joblib>=0.16.0
-scikit-learn==0.23.1
-pandas>=1.0.5
 streamlit
-Pillow>=7.2.0
+plotly
+pickle
+scikit-learn
+pandas
+numpy
